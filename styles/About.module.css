@@ -1,0 +1,5 @@
+/* in css modules we put class selectors for use in a specific component */
+
+.greenColor {
+  color: chartreuse;
+}

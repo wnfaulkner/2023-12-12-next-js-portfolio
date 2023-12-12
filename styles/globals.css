@@ -1,3 +1,10 @@
+/*
+This file for:
+1. element selectors
+2. media queries
+3. global pseudoselectors (like :root)
+*/
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
